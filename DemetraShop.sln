@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemetraShop", "DemetraShop\DemetraShop.csproj", "{894EF60F-E866-4F10-BBC9-8673C0447AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894EF60F-E866-4F10-BBC9-8673C0447AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894EF60F-E866-4F10-BBC9-8673C0447AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894EF60F-E866-4F10-BBC9-8673C0447AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894EF60F-E866-4F10-BBC9-8673C0447AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77C98C3-CF8E-4826-8CCD-D8557AF8B907}
+	EndGlobalSection
+EndGlobal
